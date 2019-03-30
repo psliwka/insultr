@@ -1,0 +1,472 @@
+actor
+addict
+adulterer
+adventurer
+aggressor
+agitator
+alcoholic
+alligator
+amateur
+anarchist
+angel
+animal
+ant
+antagonist
+arch villain
+artist
+atheist
+authority
+babe
+baby
+backseat driver
+bastard
+bear
+beauty
+bee
+beginner
+believer
+bigot
+bigshot
+bimbo
+bird
+blabbermouth
+black sheep
+blockhead
+boaster
+bohemian
+bonehead
+boob
+bookworm
+bore
+born fighter
+boss
+braggart
+brain
+brat
+brown nose
+brute
+buddy
+buffoon
+bully
+bum
+busybody
+butterfingers
+camel
+capitalist
+careerist
+cat
+celibate
+chameleon
+champion
+character
+charmer
+chatterbox
+chatterer
+chauvinist
+cheapskate
+cheater
+cheetah
+chicken
+child
+chimpanzee
+christian
+city slicker
+clown
+comedian
+comforter
+comic
+communist
+complainer
+compulsive
+conformist
+connoisseur
+conservationist
+conservative
+copycat
+cow
+coward
+crab
+creep
+critic
+crocodile
+crook
+cry baby
+culprit
+cutie
+cynic
+daredevil
+darling
+daydreamer
+deadbeat
+deceiver
+deer
+degenerate
+delinquent
+democrat
+deviate
+devil
+devil’s advocate
+diehard
+dingbat
+diplomat
+disciplinarian
+dog
+doll
+dolphin
+do nothing
+dope
+dreamer
+drifter
+drudge
+drunk
+drunkard
+duck
+dude
+dumbbell
+dummy
+dunce
+eagle
+early bird
+eavesdropper
+eccentric
+egghead
+elephant
+enthusiast
+expert
+extremist
+extrovert
+failure
+fake
+faker
+false friend
+fanatic
+fashion—plate
+feminist
+fighter
+fish
+flirt
+fly
+follower
+fool
+fox
+freak
+friend
+frog
+fruit
+gambler
+gangster
+geek
+geezer
+genius
+gentleman
+giant
+giraffe
+glutton
+goat
+go getter
+gold digger
+goldfish
+good Samaritan
+goody goody
+goof
+gossip
+gourmet
+granny
+grouch
+grumbler
+grump
+ham
+hamster
+hanger on
+hardhead
+hard nose
+heartbreaker
+heathen
+heavyweight
+hermit
+hero
+hick
+high flier
+hippie
+hippopotamus
+homebody
+homemaker
+honey
+hoodlum
+hopeful
+horse
+hotshot
+humanitarian
+hunk
+hypocrite
+idealist
+idiot
+imbecile
+incompetent
+individual
+individualist
+inferior
+innocent
+innovator
+intellectual
+introvert
+invalid
+jackass
+jerk
+jester
+jock
+joker
+junkie
+kangaroo
+kitten
+klutz
+knockout
+know it all
+knucklehead
+ladies’ man
+lady bountiful
+lady killer
+lawbreaker
+lazybones
+leader
+lecher
+left winger
+lefty
+liar
+liberal
+life of the party
+lightweight
+lion
+llama
+loafer
+lobster
+loner
+longhair
+loony
+loser
+loudmouth
+love
+lunatic
+lush
+machine
+madman
+maniac
+master
+mastermind
+matchmaker
+materialist
+menace
+merrymaker
+militant
+misfit
+moderate
+money grubber
+monkey
+monster
+moocher
+moron
+mortal
+mouth
+nag
+neurotic
+night owl
+nobody
+noise maker
+nonconformist
+novice
+nuisance
+nut
+obsessive
+obstructionist
+octopus
+opportunist
+oppositionalist
+optimist
+organizer
+outcast
+outsider
+owl
+pacifist
+packrat
+pain in the neck
+pal
+panda
+paranoid
+party girl
+party pooper
+patriot
+peacemaker
+perfectionist
+pervert
+pessimist
+pest
+philosopher
+phony
+pig
+pioneer
+playboy
+player
+playmate
+plaything
+pleasure seeker
+plodder
+poet
+pothead
+practical joker
+pragmatist
+predator
+prima donna
+pro
+professional
+profiteer
+protagonist
+protector
+psychic
+psychopath
+psychotic
+punk
+puppy
+pushover
+quack
+quick thinker
+quitter
+rabbit
+racist
+radical
+rat
+realist
+rebel
+recluse
+redneck
+republican
+right winger
+ringleader
+riot
+romantic
+romeo
+rowdy
+runt
+saint
+samaritan
+savage
+savior
+scapegoat
+scaredy cat
+scatterbrain
+scorpion
+scoundrel
+screwball
+scrooge
+scum
+seal
+sensationalist
+sentimentalist
+sexist
+sex maniac
+sex object
+sexpot
+shark
+sheep
+showman
+show off
+shrimp
+sinner
+sissy
+sitting duck
+skeptic
+slacker
+slave driver
+sleepyhead
+slob
+slouch
+slowpoke
+slug
+slut
+smart aleck
+smarty
+snail
+snake
+sneak
+snob
+snoop
+snot
+so and so
+softy
+somebody
+speculator
+spider
+spoilsport
+sport
+sportsman
+sportswoman
+square
+squirrel
+star
+stereotype
+stick in the mud
+stickler
+stinker
+stoic
+storyteller
+strategist
+stud
+stuffed shirt
+success
+sucker
+sweetheart
+sweetie
+sympathizer
+talker
+tattler
+tattletale
+tease
+teaser
+teenybopper
+tenor
+thief
+thinker
+tiger
+tightwad
+tomboy
+tormentor
+tough
+traditionalist
+traitor
+tramp
+trash
+traveler
+troublemaker
+true believer
+turkey
+turtle
+twerp
+twit
+two timer
+Ueakling
+ultraconservative
+unfortunate
+user
+vandal
+vegetable
+vegetarian
+victim
+victor
+virgin
+weasel
+weirdo
+whiner
+whizkid
+wimp
+winner
+wino
+wise guy
+witch
+wolf
+womanizer
+worker
+workhorse
+world traveler
+worm
+worrywart
+wreck
+zebra
