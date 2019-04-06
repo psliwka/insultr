@@ -4,15 +4,25 @@
   <title>insultr - rare insults generator for the modern web</title>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/vue/2.6.10/vue.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/4.17.11/lodash.min.js"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.4/css/bulma.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.8.1/css/all.min.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 <body>
-  <div id="app">
-    <div class="insultBox">
-      <p>Want to insult someone in an original way? Call them</p>
-      <p>{{ insult }}</p>
-      <button v-on:click="newInsult">&#x27F3;</button>
+  <section id="app" class="hero is-light is-fullheight">
+    <div class="hero-body">
+      <div class="container">
+        <p class="subtitle">Want to insult someone in an original way? Call them</p>
+        <p class="title is-1">{{ insult }}</p>
+        <button v-on:click="newInsult" class="button is-primary is-large">
+          <span class="icon">
+            <i class="fas fa-redo"></i>
+          </span>
+          <span>Another one</span>
+        </button>
+      </div>
     </div>
-  </div>
+  </section>
   <script src="app.js"></script>
 </body>
 </html>
