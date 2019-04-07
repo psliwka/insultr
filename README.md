@@ -2,7 +2,7 @@ insultr - rare insults generator for the modern web
 ===================================================
 
 This little web app generates rare insults using [this excellent formula](http://bearnicorn.tumblr.com/post/181390142300/i-present-the-formula-for-creating):
-![rare insult formula](https://i.redd.it/sq1axttfxuh21.png)
+![rare insult formula](formula.png)
 
 I wrote it to try out [Vue.js](https://vuejs.org/), [GitHub Pages](https://pages.github.com/), and to become more creative in internet discussions, of course.
 
