@@ -1,0 +1,22 @@
+[v-cloak] .v-cloak-hidden {
+  display: none;
+}
+
+[v-cloak] .v-cloak-invisible {
+  visibility: hidden;
+}
+
+.spinner {
+  display: inline-block;
+  height: 3rem;
+  width: 3rem;
+  animation: rotate 0.8s infinite linear;
+  border: 0.5rem solid transparent;
+  border-right-color: #363636;
+  border-radius: 50%;
+}
+
+@keyframes rotate {
+  0%    { transform: rotate(0deg); }
+  100%  { transform: rotate(360deg); }
+}

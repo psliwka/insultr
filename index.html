@@ -2,19 +2,21 @@
 <html>
 <head>
   <title>insultr - rare insults generator for the modern web</title>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/vue/2.6.10/vue.js"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/4.17.11/lodash.min.js"></script>
+  <link rel="stylesheet" href="style.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.4/css/bulma.min.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.8.1/css/all.min.css">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 <body>
-  <section id="app" class="hero is-light is-fullheight">
+  <section v-cloak id="app" class="hero is-light is-fullheight">
     <div class="hero-body">
       <div class="container">
         <p class="subtitle">Want to insult someone in an original way? Call them</p>
-        <p class="title is-1">{{ insult }}</p>
-        <button v-on:click="newInsult" class="button is-primary is-large">
+        <p class="title is-1">
+          <span class="v-cloak-hidden" v-show="wordsLoaded">{{ insult }}</span>
+          <span v-show="!wordsLoaded" class="spinner"> </span>
+        </p>
+        <button v-on:click="newInsult" class="button is-primary is-large v-cloak-invisible" v-bind:class="{ 'is-invisible': !wordsLoaded }">
           <span class="icon">
             <i class="fas fa-redo"></i>
           </span>
@@ -23,6 +25,8 @@
       </div>
     </div>
   </section>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/vue/2.6.10/vue.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/4.17.11/lodash.min.js"></script>
   <script src="app.js"></script>
 </body>
 </html>
