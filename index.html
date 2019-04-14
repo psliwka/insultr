@@ -18,7 +18,7 @@
           <span class="v-cloak-hidden" v-show="wordsLoaded">{{ insult }}</span>
           <span v-show="!wordsLoaded" class="spinner"> </span>
         </p>
-        <button v-on:click="newInsult" class="button is-primary is-large v-cloak-invisible" v-bind:class="{ 'is-invisible': !wordsLoaded }">
+        <button v-on:click="newInsult" class="button is-warning is-large v-cloak-invisible" v-bind:class="{ 'is-invisible': !wordsLoaded }">
           <span class="icon">
             <i class="fas fa-redo"></i>
           </span>
